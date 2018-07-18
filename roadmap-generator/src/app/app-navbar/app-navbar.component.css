@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #650360;
+    color: white;
+    flex-flow: row nowrap;
+    /* display: inline-flex; */
+}
+
+
+a {
+    color: white;
+}
